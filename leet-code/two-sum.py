@@ -3,6 +3,5 @@ class Solution:
         nu=set(nums)
         for i in range(len(nums)):
             z=target-nums[i]
-            if (z) in nu and i!=nums.index(z):
-                n=nums.index(z)
-                return [i,n]
+            if z in nu and i!=nums.index(z):
+                return [i,nums.index(z)]
