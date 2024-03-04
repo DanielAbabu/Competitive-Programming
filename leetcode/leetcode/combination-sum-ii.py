@@ -2,14 +2,11 @@ class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         buck = []
         ans = []
-        check = set()
         candidates.sort()
 
         def backtrack(i):
             if target == sum(buck):
-                if tuple(buck) not in check:
-                    ans.append(buck[:])
-                    check.add(tuple(buck) )
+                ans.append(buck[:])
                 return
 
             if target < sum(buck):
