@@ -3,4 +3,6 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        return s.reverse()
+        s.reverse()
+        return  list(s)
+        
