@@ -8,6 +8,7 @@ This a problem solving to join A2SV
 | [0523-continuous-subarray-sum](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
@@ -15,6 +16,7 @@ This a problem solving to join A2SV
 | [0523-continuous-subarray-sum](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1044-find-common-characters) |
 # String
 |  |
@@ -41,3 +43,4 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
