@@ -5,6 +5,7 @@ This a problem solving to join A2SV
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
@@ -32,6 +33,7 @@ This a problem solving to join A2SV
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
 # Trie
@@ -51,3 +53,7 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
