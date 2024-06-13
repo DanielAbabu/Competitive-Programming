@@ -12,6 +12,7 @@ This a problem solving to join A2SV
 | [1016-subarray-sums-divisible-by-k](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DanielAbabu/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -30,12 +31,14 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DanielAbabu/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DanielAbabu/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
