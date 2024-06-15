@@ -6,6 +6,7 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
@@ -31,6 +32,7 @@ This a problem solving to join A2SV
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DanielAbabu/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -38,6 +40,7 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
@@ -64,3 +67,7 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0502-ipo) |
