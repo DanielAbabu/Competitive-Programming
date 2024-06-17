@@ -55,6 +55,7 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -69,7 +70,12 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
