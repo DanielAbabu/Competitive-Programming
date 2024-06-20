@@ -15,6 +15,7 @@ This a problem solving to join A2SV
 | [1016-subarray-sums-divisible-by-k](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DanielAbabu/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -46,6 +47,7 @@ This a problem solving to join A2SV
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DanielAbabu/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -79,3 +81,4 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
