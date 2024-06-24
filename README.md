@@ -13,6 +13,7 @@ This a problem solving to join A2SV
 | [0876-hand-of-straights](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1044-find-common-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1217-relative-sort-array) |
@@ -65,6 +66,7 @@ This a problem solving to join A2SV
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/DanielAbabu/Competitive-Programming/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting Sort
 |  |
 | ------- |
@@ -88,11 +90,13 @@ This a problem solving to join A2SV
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -102,3 +106,7 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
