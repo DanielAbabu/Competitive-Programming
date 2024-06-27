@@ -131,3 +131,7 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1916-find-center-of-star-graph) |
