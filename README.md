@@ -149,4 +149,8 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
