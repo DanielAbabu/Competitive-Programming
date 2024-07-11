@@ -153,4 +153,12 @@ This a problem solving to join A2SV
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1293-three-consecutive-odds) |
+## String
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DanielAbabu/Competitive-Programming/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
